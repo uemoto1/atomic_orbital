@@ -1,4 +1,4 @@
-FC=gfortran
+FC=ifort
 LIBS=-lcint
 INCLUDES=
 FFLAGS=
